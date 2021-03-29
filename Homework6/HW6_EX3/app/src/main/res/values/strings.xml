@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HW6_EX3</string>
+    <string name="click_me_text">Click Me</string>
+    <string name="green_light_text">Green Light</string>
+    <string name="yellow_light_text">Yellow Light</string>
+    <string name="red_light_text">Red Light</string>
+    <string name="yellow_light_warning">Decide - speed up or slow down?</string>
+</resources>
